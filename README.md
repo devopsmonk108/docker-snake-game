@@ -8,12 +8,6 @@
 ![Caddy](https://img.shields.io/badge/Caddy-HTTPS-1F88C0?logo=caddy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-**🎮 Play it live: [https://myownsnake-game.duckdns.org](https://myownsnake-game.duckdns.org)**
-
-A classic Snake game built with **Flask** and **JavaScript**, fully containerized with **Docker**. Playable directly in the browser, with a live speed control slider.
-
----
-
 ## 🎮 Features
 
 - Classic Snake gameplay — arrow keys to move
