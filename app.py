@@ -28,14 +28,14 @@ def home():
             #speedControl label { font-size: 0.95rem; color: #cfd8dc; }
             canvas {
                 background: #111;
-                border: 4px solid #00c896;
+                border: 4px solid #ff9800;
                 border-radius: 10px;
             }
             #msg { margin-top: 15px; color: #cfd8dc; }
         </style>
     </head>
     <body>
-        <h1>🐍 Snake</h1>
+        <h1>🐍 My Snake game on AWS</h1>
         <div id="score">Score: 0</div>
 
         <div id="speedControl">
@@ -103,7 +103,7 @@ def home():
                 ctx.fillRect(food.x, food.y, box, box);
 
                 for (let i = 0; i < snake.length; i++) {
-                    ctx.fillStyle = i === 0 ? "#00c896" : "#00966e";
+                    ctx.fillStyle = i === 0 ? "#ffd600" : "#ff9800";
                     ctx.fillRect(snake[i].x, snake[i].y, box - 2, box - 2);
                 }
 
