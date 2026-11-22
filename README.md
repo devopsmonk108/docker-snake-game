@@ -1,4 +1,4 @@
-# 🐍 Dockerized Snake Game
+# 🐍 Snake Game
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
